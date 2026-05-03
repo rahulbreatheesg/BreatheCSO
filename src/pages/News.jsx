@@ -209,7 +209,7 @@ function Subscribe() {
         </div>
         <div className="md:col-span-5">
           <a
-            href="mailto:hello@breathelead.com?subject=Subscribe%20to%20Breathe%20Lead%20notes"
+            href="mailto:info@breatheesg.com?subject=Subscribe%20to%20Breathe%20Lead%20notes"
             className="card p-6 block hover:border-moss-500/40 transition-colors"
           >
             <div className="flex items-center gap-3 text-forest">
@@ -219,7 +219,7 @@ function Subscribe() {
             <p className="text-ink-muted text-sm mt-2 leading-relaxed">
               Drop us a one-line email at{' '}
               <span className="text-forest font-semibold">
-                hello@breathelead.com
+                info@breatheesg.com
               </span>{' '}
               and we will add you to the next note.
             </p>

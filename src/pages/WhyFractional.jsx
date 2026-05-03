@@ -81,7 +81,7 @@ function Hero() {
 
 function CostBreakdown() {
   const fullTime = [
-    { label: 'Salary (senior)', amount: '$160k - $260k' },
+    { label: 'Salary (senior)', amount: '$70k - $130k' },
     { label: 'Bonus + equity', amount: '15 - 30% of salary' },
     { label: 'Benefits + payroll', amount: '20 - 25% loaded' },
     { label: 'Search fee', amount: '25 - 33% of first-year comp' },
@@ -400,7 +400,7 @@ function ROIBlock() {
     {
       title: 'Avoided search budget',
       detail:
-        'A retained executive search for a CSO typically runs at 25 - 33% of first-year compensation. On a $200k salary, that is $50 - 66k of fee, paid before anyone has done any work.',
+        'A retained executive search for a CSO typically runs at 25 - 33% of first-year compensation. On a $100k salary, that is $25 - 33k of fee, paid before anyone has done any work.',
     },
     {
       title: 'Faster regulatory readiness',

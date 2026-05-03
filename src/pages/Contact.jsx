@@ -293,10 +293,10 @@ function ReachCard() {
           <div>
             <div className="font-medium text-ink">Email</div>
             <a
-              href="mailto:info@breathelead.com"
+              href="mailto:info@breatheesg.com"
               className="hover:text-forest link-underline"
             >
-              info@breathelead.com
+              info@breatheesg.com
             </a>
           </div>
         </li>
@@ -319,10 +319,10 @@ function ReachCard() {
             <p className="text-sm leading-relaxed">
               Use the form above and pick a “Join the network” option, or simply email us at{' '}
               <a
-                href="mailto:info@breathelead.com"
+                href="mailto:info@breatheesg.com"
                 className="text-forest hover:underline"
               >
-                info@breathelead.com
+                info@breatheesg.com
               </a>
               .
             </p>

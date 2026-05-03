@@ -82,8 +82,8 @@ export default function Footer() {
             <ul className="space-y-4 text-cream/85">
               <li className="flex items-start gap-2.5">
                 <Mail className="h-4 w-4 mt-1 text-moss-300 shrink-0" />
-                <a href="mailto:info@breathelead.com" className="hover:text-cream link-underline">
-                  info@breathelead.com
+                <a href="mailto:info@breatheesg.com" className="hover:text-cream link-underline">
+                  info@breatheesg.com
                 </a>
               </li>
               <li className="flex items-start gap-2.5">

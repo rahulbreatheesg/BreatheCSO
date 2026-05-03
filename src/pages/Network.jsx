@@ -326,8 +326,8 @@ function JoinNetwork() {
               <Link to="/contact" state={{ inquiry: 'Join the network - not sure of level' }} className="btn-ghost">
                 Not sure which level?
               </Link>
-              <a href="mailto:info@breathelead.com" className="btn-soft">
-                info@breathelead.com
+              <a href="mailto:info@breatheesg.com" className="btn-soft">
+                info@breatheesg.com
               </a>
             </div>
           </div>
